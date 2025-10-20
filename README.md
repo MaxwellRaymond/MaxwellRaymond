@@ -11,9 +11,10 @@ I am always looking for oppurtunities to learn more and expand my skills, so if 
 - Linux and Windows Operating Systems
 - Data Structures and Algorithms
 
-# What I'm Workign On
+# What I'm Working On
 - Expanding my skillset
   - JS, Web Dev, React
+- Personal Projects
  
 # Contact Me
 - [LinkedIn](https://www.linkedin.com/in/maxwell-raymond-69a987334/)
