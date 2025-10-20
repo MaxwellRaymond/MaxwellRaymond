@@ -17,7 +17,7 @@ I am always looking for oppurtunities to learn more and expand my skills, so if 
  
 # Contact Me
 - [LinkedIn](https://www.linkedin.com/in/maxwell-raymond-69a987334/)
-- [Email](maxr9090@gmail.com)
+- [Email](mailto:maxr9090@gmail.com)
 <!--
 **MaxwellRaymond/MaxwellRaymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
