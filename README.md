@@ -44,6 +44,7 @@ I am always looking for opportunities to learn more and expand my skills, so if 
 - Expanding my skillset
   - JS, Web Dev, React
 - Personal Projects
+  - Check back later for updates!
  
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/maxwell-raymond-69a987334/)
