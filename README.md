@@ -1,6 +1,6 @@
 # Hi, I'm Maxwell (Max) Raymond!
 
-I am a third year Computer Science student with minors in Cyber Security, Computer Forensics, and Information Technology. Currently I am pursuing my Bachelors degree at Western New England University.
+I am a fourth year Computer Science student with minors in Cyber Security, Computer Forensics, and Information Technology. Currently I am pursuing my Bachelors degree at Western New England University.
 
 I am always looking for opportunities to learn more and expand my skills, so if you're interested in collaborating feel free to get in contact with me!
 
